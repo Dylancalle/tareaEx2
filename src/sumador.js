@@ -1,5 +1,9 @@
-function sumar(a, b) {
-  return a + b;
+function SumarCadena(cadena) {
+ let resultado = 0
+    resultado =  parseInt(cadena);
+  return resultado
 }
+  
 
-export default sumar;
+
+export default SumarCadena;
